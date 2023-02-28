@@ -7,7 +7,7 @@
 **My portfolio**
 >3D Animation: https://www.artstation.com/mishapushka6
 
->Game in Unity 3D: https://github.com/mishapushka/Strategy/pull/1
+>Game in Unity 3D: https://github.com/mishapushka/Strategy
 
 **YouTube**
 >https://www.youtube.com/channel/UCXuJUxYVtYd8OQg9oPQyxGg
